@@ -22,3 +22,9 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.js-item {
+  list-style: none;
+  display: flex;
+  margin-bottom: 15px;
+}
